@@ -9,7 +9,7 @@
 body{
     font-size: 1.5rem;
     font-family: 'Roboto', sans-serif;
-    min-width: 200vh;
+    min-height: 200vh;
 }
 
 .outer-container {
